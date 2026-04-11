@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hey, I'm Karan 👋
 
-<!--
-**kx7m2qd/kx7m2qd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Claude](https://img.shields.io/badge/-Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Here are some ideas to get you started:
+📍 **Bengaluru, India** | 🔐 **Security + AI builder** | ✅ **eJPT Certified**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Building tools that make attackers' jobs harder and defenders' jobs easier — powered by AI, nmap, and too much coffee.
+
+---
+
+## What I'm Building
+
+* 🧠 **[Pentelligence](https://github.com/kx7m2qd/Pentelligence)** — AI-powered automated pentest engine. Point it at a target, watch it recon, scan, exploit, and write the report. Built with Node.js, React, Claude API, nmap, subfinder, nuclei.
+* 🚢 **[Shipify](https://github.com/kx7m2qd/Shipify)** — Paste any GitHub repo URL. Get a production-ready Dockerfile, CI/CD pipeline, docker-compose, and nginx config. Instantly.
+
+---
+
+## GitHub Activity
+
+[![GitHub Contribution Graph](https://ghchart.rshah.org/kx7m2qd)](https://github.com/kx7m2qd)
+
+---
+
+## Certifications
+
+* ✅ **eJPT** — Junior Penetration Tester (eLearnSecurity)
+
+---
+
+## What I'm Doing
+
+* ⚔️ **Finishing Pentelligence** — shipping the Claude agent loop, nuclei integration, and PDF report generator
+* 🔍 **Going deeper on offensive security** — CVE analysis, exploit dev, and AI-assisted recon automation
+* 🌱 **Building in public** — every tool I make goes on GitHub, no matter how small
+
+---
+
+## Philosophy
+
+> "Ship it broken, fix it fast." — I build tools to solve real problems. If it's useful to me, it'll be useful to someone else.
+
+Random facts:
+* Started building security tools before most people knew what an API was
+* Believe AI + security is the most interesting intersection in tech right now
+* Run Pentelligence against my own lab at 2am more than I'd like to admit
+* eJPT certified — working toward what's next
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-deep-m-12082006m/)
+[![GitHub](https://img.shields.io/badge/-Follow_me-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kx7m2qd)
