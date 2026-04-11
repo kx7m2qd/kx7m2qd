@@ -44,10 +44,10 @@
 > "Ship it broken, fix it fast." — I build tools to solve real problems. If it's useful to me, it'll be useful to someone else.
 
 Random facts:
-* Started building security tools before most people knew what an API was
+* Fueled by curiosity, caffeine, and the occasional CVE
 * Believe AI + security is the most interesting intersection in tech right now
-* Run Pentelligence against my own lab at 2am more than I'd like to admit
-* eJPT certified — working toward what's next
+* If it can be automated, it will be automated
+* Security is just breaking things with permission
 
 ---
 
