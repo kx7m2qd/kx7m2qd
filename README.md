@@ -12,12 +12,6 @@
 
 ---
 
-## What I'm Building
-
-* 🧠 **[Pentelligence](https://github.com/kx7m2qd/Pentelligence)** — AI-powered automated pentest engine. Point it at a target, watch it recon, scan, exploit, and write the report. Built with Node.js, React, Claude API, nmap, subfinder, nuclei.
-* 🚢 **[Shipify](https://github.com/kx7m2qd/Shipify)** — Paste any GitHub repo URL. Get a production-ready Dockerfile, CI/CD pipeline, docker-compose, and nginx config. Instantly.
-
----
 
 ## GitHub Activity
 
@@ -28,14 +22,6 @@
 ## Certifications
 
 * ✅ **eJPT** — Junior Penetration Tester (eLearnSecurity)
-
----
-
-## What I'm Doing
-
-* ⚔️ **Finishing Pentelligence** — shipping the Claude agent loop, nuclei integration, and PDF report generator
-* 🔍 **Going deeper on offensive security** — CVE analysis, exploit dev, and AI-assisted recon automation
-* 🌱 **Building in public** — every tool I make goes on GitHub, no matter how small
 
 ---
 
