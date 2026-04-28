@@ -16,8 +16,6 @@
 > CS student from Bengaluru building at the intersection of AI and security.
 > I make tools that automate the boring parts of DevOps and pentesting — powered by LLMs, nmap, and too much coffee.
 
-🔨 **Currently building:** Shipify & Pentelligence — AI-powered DevOps + automated pentesting tools
-
 ---
 
 ## 🚀 Featured Projects
