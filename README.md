@@ -12,11 +12,11 @@
 
 ---
 
-
 ## GitHub Activity
 
 [![GitHub Contribution Graph](https://ghchart.rshah.org/kx7m2qd)](https://github.com/kx7m2qd)
 
+---
 
 ## Certifications
 
