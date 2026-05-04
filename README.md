@@ -11,7 +11,7 @@
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Claude API](https://img.shields.io/badge/-Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-📍 **Bengaluru, India**  |  🔐 **Security + AI builder**  |  ✅ **eJPT Certified**
+📍 **Bengaluru, India**  |  🔐 **Security + AI builder**  |  ✅ **eJPT Certified**
 
 > CS student from Bengaluru building at the intersection of AI and security.
 > I make tools that automate the boring parts of DevOps and pentesting — powered by LLMs, nmap, and too much coffee.
@@ -43,10 +43,18 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kx7m2qd&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kx7m2qd&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kx7m2qd&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kx7m2qd&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kx7m2qd&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kx7m2qd&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kx7m2qd&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
