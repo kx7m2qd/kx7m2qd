@@ -99,10 +99,6 @@ AI DevOps tool that analyzes any GitHub repo and auto-generates production-ready
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kx7m2qd&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kx7m2qd&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
