@@ -85,7 +85,3 @@ Currently exploring the intersection of **security, software engineering, and AI
 </table>
 
 <br>
-
-<p align="center">
-<sub>Contributing to <strong>Metasploit Framework</strong> & <strong>LibAFL</strong></sub>
-</p>
