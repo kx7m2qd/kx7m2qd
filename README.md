@@ -14,8 +14,6 @@
 
 I work across **application security, offensive security, security automation, and DevSecOps.**
 
-Currently exploring the intersection of **security, software engineering, and AI-assisted security tooling.**
-
 ## Building
 
 **Pentelligence** — AI-assisted security reconnaissance & vulnerability triage.  
