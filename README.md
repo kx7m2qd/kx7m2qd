@@ -67,7 +67,7 @@ I work across **application security, offensive security, security automation, a
 <img src="https://img.shields.io/badge/Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
 </p>
 
-## Security
+## Certifications
 
 <table width="100%">
 <tr>
